@@ -25,7 +25,7 @@ $(document).ready(function() {
       noSelect:true,
       wheelZoom: false,
     //   freezeDecel: true,
-      initial: [0.1,0.1]
+      initial: [0.2,0.2]
     },'tags')) {
       // something went wrong, hide the canvas container
       $('#myCanvasContainer').hide();
